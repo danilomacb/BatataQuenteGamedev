@@ -1,5 +1,6 @@
 # 🥔 Batata Quente Gamedev
 
+*(Links úteis)*
 * 📺 **Vídeo de Anúncio:** [Link do vídeo será adicionado aqui]
 * 🎬 **Vídeo do Resultado Final:** [Ainda vai demorar para sair! Link em breve]
 * 🎮 **Jogue no itch.io:** [Página do jogo será adicionada aqui]
@@ -48,9 +49,10 @@ Nós vamos agendar um dia para você mexer. Chegou o seu dia? Você tem **24 hor
 4. **Cuidado com Assets e Direitos Autorais (⚠️ IMPORTANTE):** Eu prefiro que **não utilizem assets de terceiros**. Caso realmente precisem, SÓ SÃO PERMITIDOS assets 100% gratuitos e com licenças permissivas (como MIT e CC0). **Regra de Ouro:** Se usar um asset, o link dele DEVE ser colocado no arquivo `ASSETS.md`. Usar assets sem permissão pode gerar processo. Quem fizer isso está sujeito a banimento imediato e expulsão do projeto. 
 5. **Artistas são bem-vindos:** Se você é artista, pode baixar o projeto, colocar suas artes em alguma pasta e commitar. Porém, não há garantia de que alguém vai usar sua arte no jogo.
 6. **Contribuições Pequenas Valem:** O seu PR será testado para garantir que não é sacanagem. No entanto, não é preciso fazer sistemas gigantescos. Se a sua contribuição for pequena, mas fizer diferença, ela será aceita! Entendemos que muita gente trabalha e tem pouco tempo.
-7. **CREDITOS.md:** Fez a sua parte? Abra o arquivo `CREDITOS.md` e adicione o seu nome/nick (como quer ser reconhecido) e o seu `@` do Discord.
+7. **CREDITOS.md:** Fez a sua parte? Abra o arquivo `CREDITOS.md` e adicione o seu nome e o seu `@` do Discord.
 8. **Não toque neste README:** É expressamente proibido alterar, deletar ou adicionar qualquer informação neste arquivo `README.md`. Ele é o manual de instruções geral do projeto e deve permanecer intacto.
 9. **📜 Termo de Responsabilidade:** Lembre-se de que o GitHub registra o autor de cada commit e modificação. Se você fizer algo de errado, agir de má-fé, quebrar o projeto de propósito ou incluir arquivos protegidos por direitos autorais, o seu perfil ficará marcado no histórico. A responsabilidade por qualquer problema legal gerado por uso indevido de assets é exclusivamente de quem subiu o arquivo no repositório.
+10. **⚖️ Acordo de Contribuição e Licença:** Ao enviar um Pull Request para este repositório, você concorda automaticamente que o seu código e/ou arte farão parte de um projeto de código aberto sob a **Licença MIT** e que o resultado final será compilado e publicado publicamente de forma gratuita no itch.io.
 
 🏆 **A Recompensa:** Assim como os nossos cargos de Membros do Youtube e Playtesters (que são conquistados por mérito), quem contribuir de forma válida receberá um **cargo exclusivo** no Discord ao final do evento!
 
